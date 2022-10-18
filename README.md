@@ -16,7 +16,7 @@ Here's my set of my best parms: n_estimators: 500, min_child_weight: 1, max_leav
 ## Model results
 Here's my result with testing data.
  | Model        | Accuracy  | Recall   | Precision | F1      |
- | ------------ | --------- | -------- | --------  | ----- - |
+ | ------------ | --------- | -------- | --------  | ------- |
  | naive_bayes  | 81.2775   | 50.6335  | 55.8958   | 62.3789 |
  | logistic_reg | 75.8317   | 76.4963  | 59.7305   | 48.9927 |
  | base_xgb     | 83.2941   | 84.1415  | 70.2407   | 60.2817 |
